@@ -1,9 +1,18 @@
 Create a file in the same folder as the main.py file is and call it data.txt. This is the file where you have the data which the chart will be based on.
 The syntax is simple:
-On every line, there is a timestamo, followed by a ":"-mark and then amount. For example a data.txt file for a graph of $TSLA price from five different years (not real numbers):
-2016:60
-2017:78
-2018:104
-2019:147
-2020:44
-2021:864
+On every line, there is a timestamo, followed by a ":"-mark and then amount. 
+For example a data.txt file for a graph of Bill Gates net worth from 2007 to 2020:
+2007:56
+2008:58
+2009:40
+2010:53
+2011:56
+2012:61
+2013:67
+2014:76
+2015:79.2
+2016:75
+2017:86
+2018:90
+2019:96.5
+2020:98
