@@ -1,7 +1,7 @@
 Create a file in the same folder as the main.py file is and call it data.txt. This is the file where you have the data which the chart will be based on.
 The syntax is simple:
-On every line, there is a timestamo, followed by a ":"-mark and then amount. 
-For example a data.txt file for a graph of Bill Gates net worth from 2007 to 2020:
+On every line, there is a timestamp, followed by a ":"-mark and then amount. 
+For example a data.txt file for a graph of Bill Gates net worth from 2007 to 2020 (in billions):
 2007:56
 2008:58
 2009:40
